@@ -1,4 +1,4 @@
-# Hi there! 👋
+# 👋
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) developer, currently learning and improving my skills.  
 Have over 4 years of experience with ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white).  
